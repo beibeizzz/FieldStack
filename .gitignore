@@ -1,9 +1,7 @@
 __pycache__/
-*.py[cod]
-.venv/
-data/
-checkpoints/
-logs/
-results/
+*.pyc
+outputs/
 *.pt
 *.parquet
+predictions*.csv
+data/
